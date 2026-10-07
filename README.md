@@ -142,7 +142,7 @@ This structure helps keep the analytical model organized and makes DAX calculati
 
 ### 🗺️ Data Model Preview
 
-![Data Model](Image/Data_Model.png)
+![Data Model](Data_Model.png)
 
 ---
 
@@ -240,8 +240,7 @@ Together, these visuals allow users to move from high-level KPIs to more detaile
 
 # 📌 Dashboard Preview
 
-![Dashboard](Image/Dashboard.png)
-
+![Dashboard](Dashboard%20image.png)
 ---
 
 # 💡 Business Insights
